@@ -13,3 +13,6 @@ Este repositório tem como finalidade armazenar experimentos, códigos e dados r
 ## Arquivos ##
 📌 [exemplo_abap_cloud.abap](files/exemplo_abap_cloud.abap)<br/>
 📌 [teste_api_abap_cloud.abap](files/teste_api_abap_cloud.abap)
+
+## Exemplos de String
+<TODO>
